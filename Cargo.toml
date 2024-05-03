@@ -1,6 +1,8 @@
 [package]
 name = "stegosauros"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+authors = ["ThatGothJohn <thatbotjohn@gmail.com>"]
 
 [dependencies]
+bootloader = "0.9"
